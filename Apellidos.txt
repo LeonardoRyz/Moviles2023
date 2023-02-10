@@ -8,3 +8,6 @@ soto
 perez
 
 gambito
+
+
+Goku le gana
