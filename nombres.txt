@@ -6,4 +6,8 @@ pepito
 goku
 
 Goku le gana a gojo
+<<<<<<< HEAD
 Antonio
+=======
+hola
+>>>>>>> d3837e7286bed76acb0f1166611b042dd3e1c065
